@@ -1,6 +1,6 @@
 # weight-initialization-bench
 
-MNISTを使って、**重み初期化が学習・アクティベーション分布・対称性（symmetry breaking）**に与える影響を検証するリポジトリである。
+MNISTを使って、重み初期化が学習・アクティベーション分布・対称性（symmetry breaking）に与える影響を検証するリポジトリである。
 
 本リポジトリの目的は次の3点だ。
 
